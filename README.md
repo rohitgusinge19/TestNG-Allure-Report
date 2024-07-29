@@ -1,2 +1,2 @@
-# TestNG-Allure-Report
-Allure Report
+# TestNG Allure & Extent Report
+Allure & Extent Report
